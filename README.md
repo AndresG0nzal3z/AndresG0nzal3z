@@ -1,8 +1,8 @@
-### Hi there, my name is Andres Gonzalez! 👋
+# Hi there, my name is Andres Gonzalez! 👋
 
 _Programmer and Web Developer_
 
-# Skills
+### Skills
 
 
 <!--
