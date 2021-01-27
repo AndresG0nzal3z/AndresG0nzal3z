@@ -1,5 +1,10 @@
 ### Hi there, my name is Andres Gonzalez! 👋
 
+_Programmer and Web Developer_
+
+# Skills
+
+
 <!--
 **AndresG0nzal3z/AndresG0nzal3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
