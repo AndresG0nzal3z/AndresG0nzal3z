@@ -2,8 +2,15 @@
 
 _Programmer and Web Developer_
 
-### Skills
+## Skills
 
+* JavaScript
+* HTML5
+* CSS3
+* C#
+* C++
+
+## Tools and frameworks
 
 <!--
 **AndresG0nzal3z/AndresG0nzal3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
