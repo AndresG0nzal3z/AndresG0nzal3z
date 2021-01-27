@@ -3,13 +3,15 @@
 _Programmer and Web Developer_
 
 ## Skills ❤️
-* JavaScript
+* JavaScript 
 * HTML5
 * CSS3
 * C#
 * C++
 ## Tools and frameworks 🛠️
-
+* Sass
+* Less
+* Git
 
 
 <!--
