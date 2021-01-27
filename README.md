@@ -8,7 +8,7 @@ _Programmer and Web Developer_
 * CSS3
 * C#
 * C++
-## Tools and frameworks 🛠️
+## Tools 🛠️
 * Sass
 * Less
 * Git
